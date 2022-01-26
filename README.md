@@ -1,2 +1,1 @@
-my learn way,
-flutter begineer to master . first commit
+My way of learning flutter. from beginner to master
