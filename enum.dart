@@ -17,8 +17,8 @@ enum Mouses {
 } // enum demek sınıflandırma demek
 
 // mouses a bir uzanti ekliyorum.
-extension MousesLeo on Mouses (String? name) {
-  bool isCheckName(String name) {
-    return this.name == name;
-  }
-}
+// extension MousesLeo on Mouses (String? name) {
+//   bool isCheckName(String name) {
+//     return this.name == name;
+//   }
+// }
